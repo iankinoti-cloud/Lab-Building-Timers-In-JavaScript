@@ -1,4 +1,4 @@
-const { recurringTimer, stopRecurringTimer } = require('../src/recurringTimer')
+const { recurringTimer, stopRecurringTimer } = require('../timer countdown/recurringTimer')
 
 jest.useFakeTimers()
 

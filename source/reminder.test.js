@@ -1,4 +1,4 @@
-const { delayedReminder } = require('../src/reminder')
+const { delayedReminder } = require('../timer countdown/reminder')
 
 jest.useFakeTimers()
 
